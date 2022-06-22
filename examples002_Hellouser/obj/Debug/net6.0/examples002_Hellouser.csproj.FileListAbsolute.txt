@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\bin\Debug\net6.0\examples002_Hellouser.exe
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\bin\Debug\net6.0\examples002_Hellouser.deps.json
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\bin\Debug\net6.0\examples002_Hellouser.runtimeconfig.json
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\bin\Debug\net6.0\examples002_Hellouser.dll
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\bin\Debug\net6.0\examples002_Hellouser.pdb
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\examples002_Hellouser.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\examples002_Hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\examples002_Hellouser.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\examples002_Hellouser.AssemblyInfo.cs
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\examples002_Hellouser.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\examples002_Hellouser.dll
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\refint\examples002_Hellouser.dll
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\examples002_Hellouser.pdb
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\examples002_Hellouser.genruntimeconfig.cache
+C:\Users\123\Desktop\Новая папка (9)\examples002_Hellouser\obj\Debug\net6.0\ref\examples002_Hellouser.dll
