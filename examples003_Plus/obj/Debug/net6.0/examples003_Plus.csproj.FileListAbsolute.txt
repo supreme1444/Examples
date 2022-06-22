@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\examples003_Plus.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\examples003_Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\examples003_Plus.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\examples003_Plus.AssemblyInfo.cs
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\examples003_Plus.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\bin\Debug\net6.0\examples003_Plus.exe
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\bin\Debug\net6.0\examples003_Plus.deps.json
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\bin\Debug\net6.0\examples003_Plus.runtimeconfig.json
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\bin\Debug\net6.0\examples003_Plus.dll
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\bin\Debug\net6.0\examples003_Plus.pdb
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\examples003_Plus.dll
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\refint\examples003_Plus.dll
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\examples003_Plus.pdb
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\examples003_Plus.genruntimeconfig.cache
+C:\Users\123\Desktop\Новая папка (9)\examples003_Plus\obj\Debug\net6.0\ref\examples003_Plus.dll
